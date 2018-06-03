@@ -24,6 +24,10 @@ Everybody likes reading [Stack Overflow](https://stackoverflow.com) (and, someti
 
 ...and many, many more (including no Hot Network Questions)
 
+## Minor stylistic improvements
+
+* No more fixed top bar.
+
 # Filters
 
 ```
@@ -122,4 +126,7 @@ stackoverflow.com##.unread-feature-notice.-feature-notice > span
 
 ! The age of GDPR consent is long gone
 stackoverflow.com###js-gdpr-consent-banner
+
+! Make top bar not sticky - no need to reduce screen space!
+stackoverflow.com##.top-bar._fixed:style(position: static !important)
 ```
