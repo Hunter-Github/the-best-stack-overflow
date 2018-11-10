@@ -1,0 +1,78 @@
+###announcement-banner
+##.answer:style(border: initial !important)
+##.askquestion.nav
+##.askquestion.nav > ul
+##a:style(text-decoration: none !important)
+###beta-stats
+##body(margin-top: initial !important)
+##body:style(padding: initial !important)
+##body:style(padding-top: initial !important)
+##.bottom-notice
+##.bottom-notice:nth-of-type(1)
+##.bottom-share-links.bottom-notice
+##.btn-clear.login-link
+##.btn-topbar-primary.login-link
+###chat-feature
+###chat-feature.module
+##.community-bulletin.module
+##.container:style(margin: initial !important)
+##.container:style(margin-top: initial !important)
+##.-ctas
+##.displaying-results
+##.edited-yes:style(display: inline-block;height: 11px;width: 11px)
+##.everyonelovesstackoverflow
+###feed-link
+##._fixed.js-top-bar.top-bar:style(position: initial !important)
+###footer
+##form[id="search"]:style(max-width: initial !important; padding-left: initial !important;)
+##.g-column.-container
+##.grid--cell.aside-cta.pl8
+##.hero-box
+###herobox
+###hero-content
+###hot-network-questions
+##.iconHelp.svg-icon
+##[id*="comments-link"]
+##.is-visible.b64.js-quackoverflow.r24.ps-fixed.z-modal.quackoverflow
+##.js-achievements-button.-link
+##.js-achievements-button.yes-hover.icon-achievements.topbar-icon
+##.js-dismissable-hero.s-hero__dark.s-hero
+###js-gdpr-consent-banner
+##.js-gps-track.-logo
+##.js-help-button.icon-help
+##.js-help-button.-link
+##.js-inbox-button.-link
+##.js-inbox-button.yes-hover.icon-inbox.topbar-icon
+##.js-network-logo.js-gps-track.-logo
+##.js-secondary-topbar-links.-secondary:style(padding-left: 5px !important)
+###left-sidebar:style(border: initial !important)
+##.links-container
+##.login-link
+###nav-askquestion
+###nav-badges
+###nav-unanswered
+##.network-logo.js-network-logo.js-gps-track.-logo
+###newsletter-ad
+##.newsletter-anon
+##.newuser
+##.new-contributor-indicator
+###newuser-box
+###noscript-warning
+##.notify-container(position: initial !important)
+##ol[class*="secondary"]:style(flex-grow: 0 !important)
+###post-form
+##.post-menu
+###promo-box
+##.quackoverflow
+###question-header:style(border: initial !important)
+###search:style(max-width: initial !important; padding-left: initial !important;)
+##.s-hero
+###show-editor-button
+###sidebar
+##.site-header
+##.the-js-is-handling-responsiveness.drop-icons-responsively.js-secondary-topbar-links.-secondary:style(padding-left: 5px !important)
+##.top-bar._fixed:style(position: static !important)
+##.topbar-menu-links
+##.topbar-menu-links > a[href="/tour"]
+##.top-bar__network._fixed.js-top-bar.top-bar:style(position: initial !important)
+##.top-bar:style(background-color: #000000 !important)
