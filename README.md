@@ -5,6 +5,8 @@ How to filter out advertisements and noise on Stack Overflow
 
 Everybody likes reading [Stack Overflow](https://stackoverflow.com) (and, sometimes, other sites in the Stack Exchange network) to find solutions to their problems. However, there are dozens of irritating small items that hamper cognitive process. The solution? Install [uBlock Origin](https://github.com/gorhill/uBlock/releases) (optionally, [uMatrix](https://github.com/gorhill/uMatrix/releases)) and add cosmetic filters suggested below.
 
+Please note that the full list of filters is in `se_filters.txt` in this repo.
+
 # Features
 
 ## You don't need to register as a user
