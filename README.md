@@ -132,3 +132,7 @@ stackoverflow.com###js-gdpr-consent-banner
 ! Make top bar not sticky - no need to reduce screen space!
 stackoverflow.com##.top-bar._fixed:style(position: static !important)
 ```
+
+# Related
+
+* [Stack Overflow Unofficial Patch](https://github.com/vyznev/soup) - a heavy-weight set of fixes that works for logged-in users, maintained by Ilmari Karonen.
