@@ -32,7 +32,6 @@
 ###hero-content
 ###hot-network-questions
 ##.iconHelp.svg-icon
-##[id*="comments-link"]
 ##.is-visible.b64.js-quackoverflow.r24.ps-fixed.z-modal.quackoverflow
 ##.js-achievements-button.-link
 ##.js-achievements-button.yes-hover.icon-achievements.topbar-icon
